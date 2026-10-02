@@ -2,7 +2,7 @@
 
 A historical A-Frame scene that arranges menu images in a virtual environment.
 [`index.html`](index.html) contains the scene and asset references; `img/` holds
-the menu textures. This is a visual experiment, not a ordering/payment service.
+the menu textures. This is a visual experiment, not an ordering/payment service.
 
 ## Preview
 
